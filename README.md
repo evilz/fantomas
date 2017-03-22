@@ -61,6 +61,7 @@ For example, this code fragment
 	Multiple9x9 ();;
 	```	
 is reformulated to 
+
 	```fsharp
 	let Multiple9x9() = 
 	    for i in 1..9 do
